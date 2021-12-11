@@ -24,5 +24,6 @@ class ManagementSystemApplicationTests {
     }
     public int cal(int i,int j){
         return i+j;
+      System.out,.println("你真棒")
     }
 }
