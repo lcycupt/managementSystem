@@ -20,10 +20,9 @@ class ManagementSystemApplicationTests {
        Object obj1=new Object();
        Object obj2=new Object();
        assertSame(obj1,obj2);
-
+        System.out.println("你真棒");
     }
     public int cal(int i,int j){
         return i+j;
-      System.out.println("你真棒")
     }
 }
